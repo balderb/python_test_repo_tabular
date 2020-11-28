@@ -1,5 +1,4 @@
 from tabula import read_pdf
-import tabula
 
 ## a build-in ssl module of python
 import ssl
